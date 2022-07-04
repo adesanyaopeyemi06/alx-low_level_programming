@@ -1,1 +1,1 @@
-nownow
+go
