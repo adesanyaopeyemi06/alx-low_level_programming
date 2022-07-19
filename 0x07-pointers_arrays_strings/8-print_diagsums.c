@@ -10,7 +10,7 @@
 void print_diagsums(int *a, int size)
 {
 	int b;
-	
+
 	unsigned int sum, sum1;
 
 	sum = 0;
@@ -23,5 +23,4 @@ void print_diagsums(int *a, int size)
 	}
 
 	printf("%d, %d\n", sum, sum1);
-	
 }
