@@ -1,4 +1,4 @@
-o#include "main.h"
+#include "main.h"
 
 /**
  * _pow_recursion - returns the value of x index y
