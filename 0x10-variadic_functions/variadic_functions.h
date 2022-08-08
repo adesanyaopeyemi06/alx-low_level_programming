@@ -1,4 +1,3 @@
-es (9 sloc)  340 Bytes
 #ifndef _VARIADIC_FUNCTIONS_
 #define _VARIADIC_FUNCTIONS_
 
