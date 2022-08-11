@@ -28,4 +28,4 @@ int main(void)
 		pf = x;
 	printf("%ld\n", pf);
 	return (0);
-}	
+}
